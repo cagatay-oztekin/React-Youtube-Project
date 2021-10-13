@@ -1,5 +1,5 @@
 # React Youtube Project 
-in this projesctin this projesctin this projesctin this projesctin this projesctin this projesctin this projesctin this projesctin this projesct
+It is a project with the ability to search, add watched videos to history and add to favorites with Youtube API.
 
 ## Language and Technologies Used in this project
 
