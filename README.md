@@ -3,12 +3,12 @@ It is a project with the ability to search, add watched videos to history and ad
 
 ## Language and Technologies Used in this project
 
-| Language and Technologies | :mag_right:  | %|
-| :------------ |:---------------:| -----:|
-| React     | :arrow_right:| $1600 |
-| Javascript     | :arrow_right:      |   $12 |
-| CSS | :arrow_right:     |    $1 |
-| Semantic Ui |:arrow_right:      |    $1 |
+| :mag_right: |  Language and Technologies | 
+| :------------ |:---------------:| 
+| :arrow_right:| React    | 
+| :arrow_right:      | Javascript   
+| :arrow_right:     |   CSS  |
+|:arrow_right:      |   Semantic Ui 
 
 ## Application İmages
 <p>
